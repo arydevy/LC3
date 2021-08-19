@@ -1,0 +1,40 @@
+---------------------
+
+-- LC3 --
+this is my slightly modified version of LC3
+
+
+
+-----[REGISTERS]-----
+
+x - GP 8bit register
+y - GP 8bit register
+z - GP 8bit register
+w - GP 8bit register
+a - GP 8bit register
+b - GP 8bit register
+c - GP
+d - GP
+
+PC - Program Counter
+
+COND - Flags
+
+
+------[INSTRUCTIONS]-----
+0 ADD   - Add
+1 LD    - Load
+2 ST    - Store
+3 JSR   - jump register
+4 AND   - Bitwise and
+5 LDR   - Load Register
+6 STR   - Store Register
+7 RTI   - unused
+8 NOT   - Bitwise NOT
+9 LDI   - load indirect
+10 STI   - Store indirect
+11 JMP   - jump
+12 RES   - reserved unused
+13 LEA   - load effective address
+14 TRAP  - execute trap
+
