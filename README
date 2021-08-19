@@ -1,0 +1,10 @@
+Name: LC3-VM
+Author: Arydev
+Tutorial: https://justinmeiners.github.io/lc3-vm/
+
+----------------------------------------------
+This is a basic LC3 vm but i just renamed some 
+of the registers :)
+
+i am planing to add a asambler/disasambler for
+the VM but i am not sure i will do it :(
